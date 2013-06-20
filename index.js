@@ -1,6 +1,8 @@
 $(document).ready(function() {
 	imgPlay();
 	weibo_gb();
+	
+	hello
 });
 $(window).resize(function(){
  	wsTcBox();
