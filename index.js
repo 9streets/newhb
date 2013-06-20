@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	imgPlay();
 	weibo_gb();
-	
+	dddddd
 	hello
 });
 $(window).resize(function(){
