@@ -189,6 +189,8 @@ function fuzhi_hylb(){
 	else{
 		alert('您的浏览器不支持此功能，请用Ctrl+C复制！');
 	}
+	
+	test
 }
 //-----你的礼包兑换券复制
 function fuzhi_ndlbthq(){
